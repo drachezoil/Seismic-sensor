@@ -1,0 +1,21 @@
+
+IOT - webserver:
+  - https://homecircuits.eu/blog/platforms-for-iot-sensor-data/
+  - https://hackaday.com/2017/10/31/review-iot-data-logging-services-with-mqtt/
+  - https://thingsboard.io/
+  - http://analog.io/
+  - https://radar-base.org/
+  - https://io.adafruit.com/
+  - https://thingspeak.com/
+  - https://freeboard.io/
+  - https://wso2.com/iot
+  - https://www.home-assistant.io/
+  - https://www.cyfe.com/
+  - https://www.ubeac.io/
+  - https://dzone.com/articles/create-temperature-sensor-data-graphs-with-temboo
+  - https://aws.amazon.com/iot-core/features/
+  - https://www.ibm.com/internet-of-things/solutions/iot-platform
+  
+Smartphone based:
+  - https://radar-base.org/
+  
